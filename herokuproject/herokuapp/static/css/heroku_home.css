@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(#6762A6,#6762A6);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form{
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 340px;
+    margin-right: -190px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+
+}
+
+h1{
+    color:purple;
+    font-size: 30px;
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 50px;
+}
+
+.btn-primary {
+ background-color: #8064A2 !important;
+}
